@@ -6,19 +6,22 @@ body {
   float: left;
   background-color: darkslategray;
   color: white;
-  width: 25%;
+  width: 12%;
+  height: 100%;
 }
 
 .content{
-  float: right;
+  float: auto;
   background-color: darkseagreen;
   width: auto;
+  margin-left: 2.5em;
 }
 
 .header{
   width: auto;
   height: 1.5em;
   height: 2em;
+  margin-left: 3em;
   background-color: darkolivegreen;
 }
 
